@@ -1,3 +1,10 @@
 This is a different change the the csv file.
 This is not poetic.
 This is fun.
+
+VendorID	tpep_pickup_datetime	tpep_dropoff_datetime	passenger_count	trip_distance	pickup_longitude	pickup_latitude	RatecodeID	store_and_fwd_flag	dropoff_longitude	dropoff_latitude	payment_type	fare_amount	extra	mta_tax	tip_amount	tolls_amount	improvement_surcharge	total_amount
+2	1/01/16 00:00	1/01/16 00:00	2	1.1	-73.9903717	40.73469543	1	N	-73.98184204	40.73240662	2	7.5	0.5	0.5	0	0	0.3	8.8
+2	1/01/16 00:00	1/01/16 00:00	5	4.9	-73.98078156	40.7299118	1	N	-73.94447327	40.71667862	1	18	0.5	0.5	0	0	0.3	19.3
+2	1/01/16 00:00	1/01/16 00:00	1	10.54	-73.98455048	40.67956543	1	N	-73.95027161	40.78892517	1	33	0.5	0.5	0	0	0.3	34.3
+2	1/01/16 00:00	1/01/16 00:00	1	4.75	-73.99346924	40.71899033	1	N	-73.96224213	40.65733337	2	16.5	0	0.5	0	0	0.3	17.3
+2	1/01/16 00:00	1/01/16 00:00	3	1.76	-73.96062469	40.78133011	1	N	-73.9772644	40.7585144	2	8	0	0.5	0	0	0.3	8.8
